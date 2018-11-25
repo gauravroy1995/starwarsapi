@@ -1,2 +1,0 @@
-# starwarsapi
-Created with CodeSandbox
